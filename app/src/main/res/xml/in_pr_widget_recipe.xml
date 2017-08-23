@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/pr_widget_recipes"
+    android:initialLayout="@layout/pr_widget_recipes"
+    android:minHeight="175dp"
+    android:minWidth="175dp"
+    android:previewImage="@drawable/img_volcano_brownie"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="86400000"
+    android:widgetCategory="home_screen"
+    android:autoAdvanceViewId="@id/widget_stackView">
+
+</appwidget-provider>
